@@ -1,0 +1,92 @@
+
+.odd {
+    background-color: #A6065A;
+    font-family: "Chilanka", "DejaVu Sans", "sans-serif";
+}
+
+.oddly-cool {
+    font-size: 24px;
+}
+
+
+#two {
+    color: blue;
+    font-size: 36px;
+}
+
+#four {
+    background-color: lightgreen;
+    font-size: 24px;
+}
+
+
+ .first,
+ .second {
+    font-size: 28px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.first {
+    background-color: black;
+    color: white;
+}
+
+.second {
+    background-color: yellow;
+}
+
+.avatar.proportioned {
+    height: auto;
+    width: 300px;
+}
+
+.avatar.distorted {
+    height: 400px;
+    width: 200px;
+  }
+
+
+.container .text {
+    background-color: chartreuse;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+}
+
+
+.para,
+.small-para {
+  color: hsl(0, 100%, 50%);
+
+}
+
+.small-para {
+  font-size: 12px;
+}
+
+.para {
+  font-size: 22px;
+}
+
+.confirm {
+  background: green;
+  color: white;
+  font-size: 20px;
+  font-weight: bold;
+} 
+
+.button {
+  background-color: green;
+  color: black;
+  font-size: 20px;
+}
+
+.child {
+  color: red;
+  font-size: 14px;
+}
+
+div.text {
+  color: green;
+  font-size: 28px;
+}
